@@ -7,6 +7,9 @@ The dataset contains historical sales data of a pizza shop in 2015, which has 48
 1. Data Exploration/ Cleaning using Statistical Approach and functions like TRIM, VLOOKUP, IFERROR in Excel
 ETL by SQL
 2. Visualisation aids using PowerBI
+## Dashboard
+![image](https://github.com/user-attachments/assets/92d45046-3046-447e-a2cd-d5f9324f04eb)
+
 ## Business Metrics
 1. Total Annual Revenue & Number of Pizzas Sold
 2. Customer Spending per Order
