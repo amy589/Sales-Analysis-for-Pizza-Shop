@@ -1,6 +1,6 @@
 # Sales-Analysis-for-Pizza-Shop
 ## Problem Overview:
-An pizza shop wants to unlock the full potential of its business and the report below is a key for it. Our Pizza Sales Report soluton uses SQL querying and interactive PowerBI dashboards to turn annual raw sales data into valuable information that help employer tracks their sales performance, make marketing strategies to boost sales and enhance customer retention.
+An pizza shop wants to unlock the full potential of its business and the report below is a key for it. Our Pizza Sales Report solution uses SQL querying and interactive PowerBI dashboards to turn annual raw sales data into valuable information that help employer tracks their sales performance, make marketing strategies to boost sales and enhance customer retention.
 ## Introduction
 The dataset contains historical sales data of a pizza shop in 2015, which has 48,620 records. 
 ## Steps have been done
